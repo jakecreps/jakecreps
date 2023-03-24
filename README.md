@@ -4,7 +4,7 @@ I'm an OSINT 🕵️‍♂️ researcher and developer 👨‍💻 creating tool
 
 ## 💻 Technologies
 
-I'm write tools in Python 🐍, and I enjoy working with data 📊 to gain insights 🔍 from publicly available sources.
+I write tools in Python 🐍, and I enjoy working with data 📊 to gain insights 🔍 from publicly available sources.
 
 ## 📰 The OSINT Newsletter
 
