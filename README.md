@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jake Creps
+# 👋 Hello, I'm Jake
 
 I'm an OSINT 🕵️‍♂️ researcher and developer 👨‍💻 creating tools 🛠️ to make open-source intelligence more accessible.
 
